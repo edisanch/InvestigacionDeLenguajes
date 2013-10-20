@@ -12,8 +12,7 @@ recuerden hacer git pull antes de trabajar y git commit , git push despues de tr
 Si es q trabajamos todos a tiempos distintos no habra problema. Caso contrario habria q ver como 
 resolvemos el merge.
 
-Edinson Sanchez Flores . Introduccion.
-Edinson Sanchez Flores .  Caracteristicas.
+Edinson Sanchez Flores . Introduccion y  Caracteristicas.
 
 Kevin Filella - Historia
 
