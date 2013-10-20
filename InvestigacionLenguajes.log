@@ -1,7 +1,9 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.10.16)  19 OCT 2013 23:35
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.10.16)  20 OCT 2013 05:24
 entering extended mode
 **InvestigacionLenguajes.tex
-(C:\Users\chupy\.ssh\InvestigacionDeLenguajes\InvestigacionLenguajes.tex
+
+(C:\Users\Kevin\Documents\GitHub\InvestigacionDeLenguajes\InvestigacionLenguaje
+s.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -487,7 +489,8 @@ File: listings.cfg 2013/08/26 1.5b listings configuration
 ))
 Package: listings 2013/08/26 1.5b (Carsten Heinz)
 
-(C:\Users\chupy\.ssh\InvestigacionDeLenguajes\InvestigacionLenguajes.aux)
+(C:\Users\Kevin\Documents\GitHub\InvestigacionDeLenguajes\InvestigacionLenguaje
+s.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 62.
 LaTeX Font Info:    ... okay on input line 62.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 62.
@@ -572,7 +575,7 @@ File: ranking.png Graphic file (type png)
  <use ranking.png>
 Package pdftex.def Info: ranking.png used on input line 93.
 (pdftex.def)             Requested size: 398.33858pt x 411.79813pt.
- [2 <C:/Users/chupy/.ssh/InvestigacionDeLenguajes/ranking.png>]
+ [2 <C:/Users/Kevin/Documents/GitHub/InvestigacionDeLenguajes/ranking.png>]
 <extendedRanking.png, id=16, 207.77625pt x 590.205pt>
 File: extendedRanking.png Graphic file (type png)
 
@@ -583,8 +586,8 @@ Package pdftex.def Info: extendedRanking.png used on input line 97.
 Overfull \vbox (540.11954pt too high) has occurred while \output is active []
 
 
-[4 <C:/Users/chupy/.ssh/InvestigacionDeLenguajes/extendedRanking.png>] [5]
-<1.png, id=27, 578.91281pt x 206.27063pt>
+[4 <C:/Users/Kevin/Documents/GitHub/InvestigacionDeLenguajes/extendedRanking.pn
+g>] [5] <1.png, id=27, 578.91281pt x 206.27063pt>
 File: 1.png Graphic file (type png)
  <use 1.png>
 Package pdftex.def Info: 1.png used on input line 126.
@@ -595,82 +598,96 @@ File: 2.png Graphic file (type png)
  <use 2.png>
 Package pdftex.def Info: 2.png used on input line 131.
 (pdftex.def)             Requested size: 341.43306pt x 266.37186pt.
- [6 <C:/Users/chupy/.ssh/InvestigacionDeLenguajes/1.png>] <3.png, id=32, 386.94
-562pt x 300.3722pt>
+ [6 <C:/Users/Kevin/Documents/GitHub/InvestigacionDeLenguajes/1.png>]
+<3.png, id=32, 386.94562pt x 300.3722pt>
 File: 3.png Graphic file (type png)
-
-<use 3.png>
+ <use 3.png>
 Package pdftex.def Info: 3.png used on input line 136.
 (pdftex.def)             Requested size: 341.43306pt x 265.04332pt.
- [7 <C:/Users/chupy/.ssh/InvestigacionDeLenguajes/2.png>]
+ [7 <C:/Users/Kevin/Documents/GitHub/InvestigacionDeLenguajes/2.png>]
 <4.png, id=37, 387.69844pt x 298.86656pt>
 File: 4.png Graphic file (type png)
  <use 4.png>
 Package pdftex.def Info: 4.png used on input line 141.
 (pdftex.def)             Requested size: 341.43306pt x 263.20403pt.
- [8 <C:/Users/chupy/.ssh/InvestigacionDeLenguajes/3.png>] <5.png, id=41, 385.44
-pt x 299.61937pt>
+ [8 <C:/Users/Kevin/Documents/GitHub/InvestigacionDeLenguajes/3.png>]
+<5.png, id=41, 385.44pt x 299.61937pt>
 File: 5.png Graphic file (type png)
-
-<use 5.png>
+ <use 5.png>
 Package pdftex.def Info: 5.png used on input line 146.
 (pdftex.def)             Requested size: 341.43306pt x 265.40771pt.
- [9 <C:/Users/chupy/.ssh/InvestigacionDeLenguajes/4.png>]
+ [9 <C:/Users/Kevin/Documents/GitHub/InvestigacionDeLenguajes/4.png>]
 <6.png, id=46, 386.19281pt x 298.86656pt>
 File: 6.png Graphic file (type png)
  <use 6.png>
 Package pdftex.def Info: 6.png used on input line 151.
 (pdftex.def)             Requested size: 341.43306pt x 264.2301pt.
- [10 <C:/Users/chupy/.ssh/InvestigacionDeLenguajes/5.png>] <7.png, id=50, 540.5
-1938pt x 319.1925pt>
+ [10 <C:/Users/Kevin/Documents/GitHub/InvestigacionDeLenguajes/5.png>]
+<7.png, id=50, 540.51938pt x 319.1925pt>
 File: 7.png Graphic file (type png)
-
-<use 7.png>
+ <use 7.png>
 Package pdftex.def Info: 7.png used on input line 156.
 (pdftex.def)             Requested size: 341.43306pt x 201.62808pt.
- <8.png, id=51, 813.0375pt x 470.50781pt>
+
+<8.png, id=51, 813.0375pt x 470.50781pt>
 File: 8.png Graphic file (type png)
  <use 8.png>
 Package pdftex.def Info: 8.png used on input line 161.
 (pdftex.def)             Requested size: 341.43306pt x 197.5832pt.
- [11 <C:/Users/chupy/.ssh/InvestigacionDeLenguajes/6.png> <C:/Users/chupy/.ssh/
-InvestigacionDeLenguajes/7.png>]
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
-File: lstlang1.sty 2013/08/26 1.5b listings language file
-)
+ [11 <C:/Users/Kevin/Documents/GitHub/InvestigacionDeLenguajes/6.png> <C:/Users
+/Kevin/Documents/GitHub/InvestigacionDeLenguajes/7.png>]
 
-Package Listings Warning: Text dropped after begin of listing on input line 169
+Package Listings Warning: Text dropped after begin of listing on input line 168
 .
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 171.
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 169.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omlcmr.fd"
+File: omlcmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 169.
+
+
+Package Listings Warning: Text dropped after begin of listing on input line 175
+.
+
+
+Package Listings Warning: Text dropped after begin of listing on input line 182
+.
+
+
+Package Listings Warning: Text dropped after begin of listing on input line 190
+.
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 191.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    Font shape `OMS/cmr/m/it' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 171.
- [12 <C:/Users/chupy/.ssh/InvestigacionDeLenguajes/8.png>]
-(C:\Users\chupy\.ssh\InvestigacionDeLenguajes\InvestigacionLenguajes.aux) ) 
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 191.
+ [12 <C:/Users/Kevin/Documents/GitHub/InvestigacionDeLenguajes/8.png>]
+(C:\Users\Kevin\Documents\GitHub\InvestigacionDeLenguajes\InvestigacionLenguaje
+s.aux) ) 
 Here is how much of TeX's memory you used:
- 6082 strings out of 493921
- 85977 string characters out of 3144875
- 164540 words of memory out of 3000000
- 9308 multiletter control sequences out of 15000+200000
- 10000 words of font info for 35 fonts, out of 3000000 for 9000
+ 5991 strings out of 493921
+ 85039 string characters out of 3144875
+ 154943 words of memory out of 3000000
+ 9220 multiletter control sequences out of 15000+200000
+ 9705 words of font info for 34 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 44i,11n,43p,656b,1356s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/
-Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
-ogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Progr
-am Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program 
-Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Fil
-es (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (
-x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Program Files (x8
-6)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)
-/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on InvestigacionLenguajes.pdf (12 pages, 820797 bytes).
+ 44i,11n,43p,656b,1247s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi1
+0.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.p
+fb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:
+/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Pro
+gram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Progr
+am Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on InvestigacionLenguajes.pdf (12 pages, 807750 bytes).
 PDF statistics:
- 87 PDF objects out of 1000 (max. 8388607)
+ 83 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  51 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -163,17 +163,36 @@ lo elegimos e inmediatamente comenzara la descarga del paquete de instalación}
 
 \section{Hola Mundo y otros Programas Introductorios}
 
-\lstset{language=Pascal}          % Set your language (you can change the language for each code-block optionally)
+% Set your language (you can change the language for each code-block optionally)
+\begin{lstlisting}[frame=single]  % Start your code-block
+for i:=maxint to 0 do
+> (display "Hola mundo")
+Hola mundo
+\end{lstlisting}
+'display' se utiliza para mostrar texto en pantalla. Este código muestra 'Hola mundo' en pantalla.
 
 \begin{lstlisting}[frame=single]  % Start your code-block
 for i:=maxint to 0 do
-begin
-{ do nothing }
-end;
-Write('Case insensitive ');
-Write('Pascal keywords.');
+> (sin 90)
+1
 \end{lstlisting}
+Este código muestra el seno de 90 grados en pantalla: 1.
 
+\begin{lstlisting}[frame=single]  % Start your code-block
+for i:=maxint to 0 do
+> (map + '(5 2 1) '(3 4 4))
+(8 6 5)
+\end{lstlisting}
+'map' recibe un procedimiento y lo utiliza en los elementos de una lista, retornando una lista de resultados.
+En este caso, utiliza el operador suma y retorna la suma de las dos listas: (8 6 5).
+
+\begin{lstlisting}[frame=single]  % Start your code-block
+for i:=maxint to 0 do
+> (define (cuadrado x) (* x x))
+> (cuadrado 10)
+100
+\end{lstlisting}
+En este código, hemos declarado una función llamada 'cuadrado' que recibe un parámetro 'x'. El cuerpo de tal función esta después de su declaración, y consiste en elevar 'x' al cuadrado usando el operador de multiplicación. En la siguiente línea, llamamos a la función 'cuadrado' y le enviamos '10' como parámetro, retornando 100 como resultado.
 
 
 \end{document}
