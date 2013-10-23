@@ -50,7 +50,7 @@
 \renewcommand{\cftsecpagefont}{\rmfamily\mdseries\upshape} % No bold!
 
 %%% END Article customizations
-
+\usepackage{url}
 \usepackage[spanish]{babel}
 \usepackage{listings} 
 %%% The "real" document content comes below...
@@ -63,12 +63,7 @@
 
 \begin{document}
 \maketitle
-%\tableofcontents % No hace falta un TOC en un artículo corto
-%\begin{itemize}
-%\item Adrian Aguilar
-%\item Edinson Sanchez
-%\item Kevin Filella
-%\end{itemize}
+
 
 \section{Introducción}
 El SCHEME es un lenguaje de programación que forma parte de LIPS. LISP es un conjunto o familia de lenguajes de programación que no están limitados a un único paradigma de programación, es decir son multiparadigma. Entre los lenguajes LISP más conocidos hoy en día están el Common LISP y el SCHEME (más comúnmente conocido como el infierno de los paréntesis)
@@ -92,11 +87,11 @@ Entre sus implementaciones destacan el diseño e implementación de Compiladores
 El Cálculo Lambda es una de sus características principales. Este se refiere a utilizar funciones no solo como una instancia de un procedimiento, sino también como una estructura de control y un modificador de ambiente. Esto hace que la implementación de bucles y recursividad operen de una manera bastante elegante.
 Hacerca de su uso actualmente, se podría decir que no es un lenguaje de uso masivo y que su niche de utilidad cada vez se hace más pequeño. Para mostrar esto veamos esta tabla que muestra los Rankings de los lenguajes de programación de acuerdo a su uso en la actualidad. Tabla tomada de Tiobe.com
 
-\includegraphics[width=14cm]{imagenes/ranking.png}
+\includegraphics[height=14cm]{imagenes/ranking.png}
 
 Como podemos observar , SCHEME ni siquiera aparece en la lista, para obtener el ranking de SCHEME tenemos que pasar a la lista extendida , he aquí a continuación, obtenida del mismo sitio especializado en ranking de lenguajes de programación, tiobe.com
 
-\includegraphics[width=14cm]{imagenes/extendedRanking.png}
+\includegraphics[height=14cm]{imagenes/extendedRanking.png}
 
 
 SCHEME se encuentra en el puesto 35, aunque esto no resta a su importancia histórica ya que en su momento fue un lenguaje de suma importancia y de características únicas. Pero con el tiempo surgieron lenguajes nuevos de alto nivel que suplían y sobrepasaron las características del SCHEME
@@ -118,7 +113,7 @@ Hewitt estuvo escéptico de las capacidades del cálculo lambda como base de la 
 
 Scheme es un lenguaje de programación que enfatiza la aplicación de funciones, o lenguaje funcional, que tiene sus raíces en el lenguaje de programación Lisp, siendo un dialecto de este. Scheme tuvo sus inicios en el periodo de 1975 hasta 1980, cuando Guy L. Steele y Gerald Jay Sussman, del MIT AI Lab, publicaron nueve artículos llamados Lambda Papers durante este tiempo.
 
-Aunque una de las características mas importantes de destacar sobre Scheme es el minimalismo, Sussman y Steele expresaron que esta no fue una meta intencional durante su creación. "Nosotros en realidad estábamos tratando de construir algo complicado y rebuscado, favorablemente, habíamos creado algo que, además de cumplir con todas nuestras metas, era mucho más simple de lo intencionado... Nos dimos cuenta que el cálculo lambda puede servir como la base de un poderoso lenguaje de programación." (Gerald Jay Sussman y Guy L. Steele, Jr. (Diciembre 1998). "The First Report on Scheme Revisited").
+Aunque una de las características mas importantes de destacar sobre Scheme es el minimalismo, Sussman y Steele expresaron que esta no fue una meta intencional durante su creación. "Nosotros en realidad estábamos tratando de construir algo complicado y rebuscado, favorablemente, habíamos creado algo que, además de cumplir con todas nuestras metas, era mucho más simple de lo intencionado... Nos dimos cuenta que el cálculo lambda puede servir como la base de un poderoso lenguaje de programación."
 
 Scheme tiene un estándar oficial de la IEEE y un estándar de facto llamado Revised n-th Report on the Algorithmic Language Scheme (comunmente abreviado RnRS). El estándar mas implementado hasta la fecha es el R5RS de 1998, y el nuevo estándar, R6RS, fue ratificado el 2007.
 \section{Tutorial de Instalación}
@@ -195,6 +190,13 @@ for i:=maxint to 0 do
 100
 \end{lstlisting}
 En este código, hemos declarado una función llamada 'cuadrado' que recibe un parámetro 'x'. El cuerpo de tal función esta después de su declaración, y consiste en elevar 'x' al cuadrado usando el operador de multiplicación. En la siguiente línea, llamamos a la función 'cuadrado' y le enviamos '10' como parámetro, retornando 100 como resultado.
+  
+\begin{thebibliography}{1}
 
+\bibitem{quote} Gerald Jay Sussman and Guy L. Steele, Jr. {\em The First Report on Scheme Revisited}  December 1998.
+
+\bibitem{url}  WikiBooks - Scheme Programming {\em \url{http://en.wikibooks.org/wiki/Scheme_Programming/}} December 2010.
+
+\end{thebibliography}
 
 \end{document}
